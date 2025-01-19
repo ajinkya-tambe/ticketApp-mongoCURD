@@ -1,7 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Get a MONGODB_URI of your own and add it in .env.local as follows
+```
 MONGODB_URI=<your_mongo_uri>
+```
 
 ## Getting Started
 
